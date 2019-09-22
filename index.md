@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to FreeGeek Chicago
 
-You can use the [editor on GitHub](https://github.com/JayatFreegeek/jayatfreegeek.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+FreeGeek Chicago, NFP
+Non-profit organization in Chicago, Illinois
+Address: BSMT, 3411 W Diversey Ave, Chicago, IL 60647
+Hours: Monday-Tuesday: Closed, Wednesday-Sunday: 11AM–5PM
+Phone: (773) 342-6205
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mission and history
 
-### Markdown
+FreeGeek Chicago is a not-for-profit community organization that recycles used computers and parts to provide functional computers, education, internet access and job skills training to those who want them.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+FreeGeek Chicago was founded in August 2005 as a collaboration of NPOTechs and Logan Square CTC to recycle computer technology and provide low- and no-cost computing to economically disadvantaged individuals and not-for-profit and social change organizations. FreeGeek Chicago does most of this work with volunteers, who disassemble the donated equipment and test the components, which are either recycled as electronic scrap or reused in refurbished systems.
 
-```markdown
-Syntax highlighted code block
+FreeGeek Chicago is a democratically run organization that uses consensus for decision-making. Our policy decisions are made by a group of volunteers and staff called the council, and those policies are executed by our staff collective. Public meetings are posted on the calendar and discussed on the FreeGeek Talk mailing list.
 
-# Header 1
-## Header 2
-### Header 3
+We are proud to be an affiliate of FreeGeek Portland, the founding FreeGeek.
+
 
 - Bulleted
-- List
+-
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Twitter](https://twitter.com/freegeekchicago), [Instagram](https://www.instagram.com/freegeekchicago/),
+[Forum](https://plus.google.com/105502294305555987523/)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JayatFreegeek/jayatfreegeek.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
